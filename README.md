@@ -81,7 +81,7 @@ Please see below for the postcode ranges for each state/territory:
 Xinwei (Sherwin) Zhao
 
 ## Version History
-No release
+* v1.0.0
 
 ## Acknowledgments
 
