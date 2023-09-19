@@ -11,8 +11,9 @@ This repository uses the open-source [Digital Boundary Files](https://www.abs.go
 * Due to BING map area code support and data rendering size issues, only a few Postal Areas map previews are enabled.
 
 #### About the ABS Postal Areas boundary data
-The Postal Areas boundary data is encoded with Australian postal code as the row key, and this row key has not been associated with any Austrlian states or territories.
-As a result, I have apply partition transformation to the postal codes according to the postcode ranges defined by the [Australia Post](https://www.auspost.com.au). Please see below for the postcode ranges for each state/territory:
+The Postal Areas boundary data is encoded with Australian postal code as the row key, and this row key has not been associated with any Austrlian states or territories. \
+As a result, I have apply partition transformation to the postal codes according to the postcode ranges defined by the [Australia Post](https://www.auspost.com.au), which by law manages the lifecycle of Australian postcodes. \
+Please see below for the postcode ranges for each state/territory: \
 <table>
    <thead>
       <tr>
