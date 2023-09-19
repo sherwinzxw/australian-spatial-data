@@ -10,6 +10,25 @@ This repository uses the open-source [Digital Boundary Files](https://www.abs.go
 * You can find the map preview at [here](https://github.com/sherwinzxw/australian-spatial-data/blob/master/data/spatial_data/states/vic/topojson/simplified/POA_2021_VIC_GDA2020.json)
 * Due to BING map area code support and data rendering size issues, only a few Postal Areas map previews are enabled.
 
+#### Available TopoJSON datasets
+Please find below for the list of avaiable TopoJSON datasets:
+* Commonwealth level
+   * Australia map
+   * Commonwealth Electoral Divisions (CED) map
+   * Greater Capital City Statstical Areas (GCCSA) map
+   * Local Government Areas (LGA) map
+   * Postal Areas (POA) map
+   * Suburbs and Localities (SAL) map
+   * State Electoral Divisions (SED) map
+   * State and Territories (STE) map  
+* State/Territory level
+   * Commonwealth Electoral Divisions (CED) map
+   * Greater Capital City Statstical Areas (GCCSA) map
+   * Local Government Areas (LGA) map
+   * Postal Areas (POA) map
+   * Suburbs and Localities (SAL) map
+   * State Electoral Divisions (SED) map
+
 #### About the ABS Postal Areas boundary data
 The Postal Areas boundary data is encoded with Australian postal code as the row key, and this row key has not been associated with any Austrlian states or territories. \
 As a result, I have apply partition transformation to the postal codes according to the postcode ranges defined by the [Australia Post](https://www.auspost.com.au), which by law manages the lifecycle of Australian postcodes. \
