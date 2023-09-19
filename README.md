@@ -13,7 +13,7 @@ This repository uses the open-source [Digital Boundary Files](https://www.abs.go
 #### About the ABS Postal Areas boundary data
 The Postal Areas boundary data is encoded with Australian postal code as the row key, and this row key has not been associated with any Austrlian states or territories. \
 As a result, I have apply partition transformation to the postal codes according to the postcode ranges defined by the [Australia Post](https://www.auspost.com.au), which by law manages the lifecycle of Australian postcodes. \
-Please see below for the postcode ranges for each state/territory: \
+Please see below for the postcode ranges for each state/territory: 
 <table>
    <thead>
       <tr>
@@ -67,7 +67,7 @@ Xinwei (Sherwin) Zhao
 
 ## Acknowledgments
 
-Greate thanks to below source data and service providers ()
+Greate thanks to below source data and service providers
 * [Australian Bureau of Statistics](https://www.abs.gov.au/)
 * [Australia Post](https://www.auspost.com.au)
 * [Matthew Proctor](https://www.matthewproctor.com)
