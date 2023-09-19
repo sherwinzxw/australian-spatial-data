@@ -5,6 +5,12 @@ A repository of the simplified TopoJSON data that encodes the Australian Commonw
 
 This repository uses the open-source [Digital Boundary Files](https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files) datasets from the Australian Bureau of Statics (ABS) 
 
+</br>
+####Preview on map
+![image](https://github.com/sherwinzxw/australian-spatial-data/assets/12377619/61f1f0bc-27f1-4865-bee2-8d981a2bf404)
+You can find the map preview at [here]([https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs-edition-3/jul2021-jun2026/access-and-downloads/digital-boundary-files](https://github.com/sherwinzxw/australian-spatial-data/blob/master/data/spatial_data/states/vic/topojson/simplified/POA_2021_VIC_GDA2020.json)
+Due to BING map area code support and data rendering size issues, only a few Postal Areas map previews are enabled.
+
 
 ## Author
 Xinwei (Sherwin) Zhao
