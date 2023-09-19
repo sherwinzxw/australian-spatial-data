@@ -10,6 +10,9 @@ This repository uses the open-source [Digital Boundary Files](https://www.abs.go
 * You can find the map preview at [here](https://github.com/sherwinzxw/australian-spatial-data/blob/master/data/spatial_data/states/vic/topojson/simplified/POA_2021_VIC_GDA2020.json)
 * Due to BING map area code support and data rendering size issues, only a few Postal Areas map previews are enabled.
 
+### About the ABS Postal Areas boundary data
+The Postal Areas boundary data is encoded with Australian postal code as the row key, and this row key has not been associated with any Austrlian states or territories.
+As a result, I have apply grouping transformation to the postal codes according to the postcode ranges defined by the [Australia Post](https://www.auspost.com.au).
 
 ## Author
 Xinwei (Sherwin) Zhao
@@ -22,5 +25,6 @@ Xinwei (Sherwin) Zhao
 
 Greate thanks to below source data and service providers ()
 * [Australian Bureau of Statistics](https://www.abs.gov.au/)
+* [Australia Post](https://www.auspost.com.au)
 * [Matthew Proctor](https://www.matthewproctor.com)
 * [Mapshaper](https://github.com/mbloch/mapshaper)
