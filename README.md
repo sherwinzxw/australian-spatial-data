@@ -7,8 +7,8 @@ This repository uses the open-source [Digital Boundary Files](https://www.abs.go
 
 #### Preview on map
 ![image](https://github.com/sherwinzxw/australian-spatial-data/assets/12377619/b29a4547-ab41-4f91-b1b6-6b220728eec4)
-<p>*You can find the map preview at [here](https://github.com/sherwinzxw/australian-spatial-data/blob/master/data/spatial_data/states/vic/topojson/simplified/POA_2021_VIC_GDA2020.json)</p></br>
-<p>*Due to BING map area code support and data rendering size issues, only a few Postal Areas map previews are enabled.</p>
+* You can find the map preview at [here](https://github.com/sherwinzxw/australian-spatial-data/blob/master/data/spatial_data/states/vic/topojson/simplified/POA_2021_VIC_GDA2020.json)
+* Due to BING map area code support and data rendering size issues, only a few Postal Areas map previews are enabled.
 
 
 ## Author
